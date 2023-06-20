@@ -1,3 +1,4 @@
+
 # Data Cleaning and Data Wrangling of Surveymonkey Data
 
 
@@ -14,3 +15,9 @@ and engaging way. In the way of transforming data, the database is cleaned accor
 ### Highlights :
  1. **melt()** function is opposite of pivot function, which is one of the best function and saves a lot of time.
  2. **merge()** function is which is similar to sets, is one of the important function for joing the data as per our requirements.
+
+### The Data Transition is as shown below
+<img width="1856" alt="Data_Cleaning_Challange" src="https://github.com/UdaykiranEstari/Cleaning-Wrangling-SurveyMonkey/assets/115963773/54050421-42f9-4f4c-a02d-aa3d3b2564b4">
+
+
+
